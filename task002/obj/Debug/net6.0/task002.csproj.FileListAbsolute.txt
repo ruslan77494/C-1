@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\C# Семинар 001\task002\obj\Debug\net6.0\task002.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C# Семинар 001\task002\obj\Debug\net6.0\task002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C# Семинар 001\task002\obj\Debug\net6.0\task002.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C# Семинар 001\task002\obj\Debug\net6.0\task002.AssemblyInfo.cs
+C:\Users\PC\Desktop\C# Семинар 001\task002\obj\Debug\net6.0\task002.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C# Семинар 001\task002\bin\Debug\net6.0\task002.exe
+C:\Users\PC\Desktop\C# Семинар 001\task002\bin\Debug\net6.0\task002.deps.json
+C:\Users\PC\Desktop\C# Семинар 001\task002\bin\Debug\net6.0\task002.runtimeconfig.json
+C:\Users\PC\Desktop\C# Семинар 001\task002\bin\Debug\net6.0\task002.dll
+C:\Users\PC\Desktop\C# Семинар 001\task002\bin\Debug\net6.0\task002.pdb
+C:\Users\PC\Desktop\C# Семинар 001\task002\obj\Debug\net6.0\task002.dll
+C:\Users\PC\Desktop\C# Семинар 001\task002\obj\Debug\net6.0\refint\task002.dll
+C:\Users\PC\Desktop\C# Семинар 001\task002\obj\Debug\net6.0\task002.pdb
+C:\Users\PC\Desktop\C# Семинар 001\task002\obj\Debug\net6.0\task002.genruntimeconfig.cache
+C:\Users\PC\Desktop\C# Семинар 001\task002\obj\Debug\net6.0\ref\task002.dll
